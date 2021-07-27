@@ -6,8 +6,8 @@ Machine Learning
 ### How Does Credit Card Fraud Happen?
 ##### Credit card fraud is usually caused either by card owner’s negligence with his data or by a breach in a website’s security. Here are some examples:
 
-** A consumer reveals his credit card number to unfamiliar individuals.** 
-** A card is lost or stolen and someone else uses it.** 
+** A consumer reveals his credit card number to unfamiliar individuals. 
+###### A card is lost or stolen and someone else uses it.
 Mail is stolen from the intended recipient and used by criminals.
 Business employees copy cards or card numbers of its owner.
 Making a counterfeit credit card.
